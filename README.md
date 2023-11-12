@@ -21,7 +21,7 @@ This repository contains a codebase for an back-end PWA Text Editor Application
 
 
 ## Screen
-
+![Screenshot 2023-11-12 at 8 10 40 AM](https://github.com/samxbrown/Sams_Text_Editor/assets/135293566/73781b79-3979-43c6-9c1d-dc5d4e3a6fb3)
 
 heroku deployed site: https://limitless-crag-31559-2f3fe12f0f9d.herokuapp.com/
 
